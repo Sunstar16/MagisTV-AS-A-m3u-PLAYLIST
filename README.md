@@ -1,2 +1,6 @@
-# MagisTV-Playlist
-A playlist that contains every single channel in the world! Using the VPN-Super Unlimited Proxy, choosing server Sweden92 
+# MagisTV iOS
+TUTORIAL:
+1. Download this app:  https://apps.apple.com/es/app/iptv-my-smart-iptv-player/id1525121231?l=en-GB
+2. Make a new Playlist and name it "MagisTV"
+3. Add this url to it: https://github.com/Sunstar16/MagisTV-Playlist/raw/refs/heads/main/MAGISTV.m3u
+4. Have Fun 🍿
