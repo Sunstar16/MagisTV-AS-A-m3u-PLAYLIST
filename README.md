@@ -1,6 +1,7 @@
-# MagisTV iOS
+# MagisTV
 TUTORIAL:
-1. Download this app: [https://apps.apple.com/es/app/iptv/id1553618501?l=en-GB](https://apps.apple.com/app/id6447525808)
-2. Make a new Playlist and name it "MagisTV iOS"
-3. Add this url to it: https://github.com/Sunstar16/MagisTV-Playlist/raw/refs/heads/main/MAGISTV.m3u
+1. Use this web player: http://webtv-new.iptvsmarters.com/
+2. Make a new Playlist and name it "MagisTV"
+3. Add this url to it: https://raw.githubusercontent.com/Sunstar16/MagisTV-iOS/refs/heads/main/MagisTV.m3u
 4. Have Fun 🍿
+PROJECT MADE BY @Sunstar16
