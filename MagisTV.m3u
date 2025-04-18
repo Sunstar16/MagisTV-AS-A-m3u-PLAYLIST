@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://vipsdef.top:8080/xmltv.php?username=VIP0123169527350922&password=386e7fa79c1a"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV-EPG.xml"
 
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA VIP",ES: (HD) DAZN LALIGA
 http://vipsdef.top:8080/VIP0123169527350922/386e7fa79c1a/243
