@@ -10,6 +10,6 @@ TUTORIAL:
 
    
 2. Make a new m3u Playlist and name it "MagisTV"
-3. Add this url to it: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV.m3u
+3. Add my url to it: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV.m3u
 4. Have Fun 🍿
 PROJECT MADE BY @Sunstar16
