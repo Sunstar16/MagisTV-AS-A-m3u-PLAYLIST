@@ -1,4 +1,4 @@
-# MagisTV
+# MagisTV as an .m3u
 TUTORIAL:
 1. Use this video player:
  
