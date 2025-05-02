@@ -1,15 +1,39 @@
 # MagisTV as an .m3u
-TUTORIAL:
-1. Use this video player:
- 
-- iOS: https://apps.apple.com/es/app/smarters-pro/id6450746159?l=en-GB
+🇬🇧🇺🇸VPN to watch the playlist:
 
-- Android: https://play.google.com/store/apps/details?id=com.smarters.smarterspro&pcampaignid=web_share
+1. Install this VPN depending on your platform⬇️
 
-- Microsoft Store: https://apps.microsoft.com/detail/9n7cc292h3r8?hl=sv-SE&gl=SE
+Extension Chrome: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
 
-   
-2. Make a new m3u Playlist and name it "MagisTV"
-3. Add my url to it: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV.m3u
-4. Have Fun 🍿
-PROJECT MADE BY @Sunstar16
+Android: https://play.google.com/store/apps/details?id=com.northghost.touchvpn&pcampaignid=web_share
+
+iOS: https://apps.apple.com/app/id991744383
+
+2. Choose the Sweeden server, and view the content with no problem!
+
+3. Optionally, to view the content, use this online player! ⬇️: 
+
+PLAYER:  https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u 
+
+
+4. Enjoy 🍿
+
+
+🇪🇸VPN para ver la lista de reproducción:
+
+1. Instala esta VPN según tu plataforma ⬇️
+
+Extensión para Chrome: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
+
+Android: https://play.google.com/store/apps/details?id=com.northghost.touchvpn&pcampaignid=web_share
+
+iOS: https://apps.apple.com/app/id991744383
+
+2. Elige el servidor de Suecia y disfruta del contenido sin problemas.
+
+3. Opcionalmente, para ver el contenido, ¡usa este reproductor en línea! ⬇️:
+
+REPRODUCTOR: https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u
+
+
+4. ¡Disfrútalo! 🍿
