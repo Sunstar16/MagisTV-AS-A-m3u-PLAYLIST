@@ -1912,9 +1912,9 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10595.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery WORLD (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery WORLD (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Disney Channel (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="BRASIL",BRA-Disney Channel (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Disney Junior (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="BRASIL",BRA-Disney Junior (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRA-E! (M)(720)" tvg-logo="" group-title="BRASIL",BRA-E! (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10600.m3u8
@@ -3855,7 +3855,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8188.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/b47dfa54e4944f390fe0f821a4953ab1.png" group-title="ESPAÑA",ESP - Historia (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8189.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Hollywood (T)(720)" tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Hollywood.png" group-title="ESPAÑA",ESP - Hollywood (T)(720)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8190.m3u8
+http://ua-iptv.com:8080/live/Standard11/7700110/973347.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - LA 1 (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ESPAÑA",ESP - LA 1 (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - La 1 (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ESPAÑA",ESP - La 1 (TV)(1080)
