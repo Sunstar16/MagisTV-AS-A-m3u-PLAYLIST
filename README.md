@@ -12,10 +12,9 @@ iOS: https://apps.apple.com/app/id991744383
 
 3. Optionally, to view the content, use this online player! ⬇️: 
 
--iOS & Android Player:  https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u 
-
+-iOS & Android Player:  https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV%20-%20PLAYLIST.m3u
 -PC Player (Chrome Extension): https://chromewebstore.google.com/detail/reproductor-mpdm3u8m3uepg/opmeopcambhfimffbomjgemehjkbbmji
--Playlist link for PC Player: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u
+-Playlist link for PC Player: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV%20-%20PLAYLIST.m3u
 
 4. Enjoy 🍿
 
