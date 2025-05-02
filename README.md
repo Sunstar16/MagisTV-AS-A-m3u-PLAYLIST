@@ -3,11 +3,11 @@
 
 1. Install each VPN depending on your platform⬇️
 
-Chrome Extensions: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
+-Chrome Extensions: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
 
-Android: https://play.google.com/store/apps/details?id=com.northghost.touchvpn&pcampaignid=web_share
+-iOS: https://apps.apple.com/app/id1503251395
 
-iOS: https://apps.apple.com/app/id991744383
+-Android: https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify&hl=en
 
 2. Choose the Sweeden server, and view the content with no problem!
 
@@ -25,11 +25,11 @@ iOS: https://apps.apple.com/app/id991744383
 
 1. Instala esta VPN según tu plataforma ⬇️
 
-Extensión para Chrome: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
+-Extensión para Chrome: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
 
-Android: https://play.google.com/store/apps/details?id=com.northghost.touchvpn&pcampaignid=web_share
+-iOS: https://apps.apple.com/app/id1503251395
 
-iOS: https://apps.apple.com/app/id991744383
+-Android: https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify&hl=en
 
 2. Elige el servidor de Suecia y disfruta del contenido sin problemas.
 
