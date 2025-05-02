@@ -1,10 +1,9 @@
 # MagisTV as an .m3u
 🇬🇧🇺🇸VPN to watch the playlist:
 
-1. Install this VPN depending on your platform⬇️
+1. Install each VPN depending on your platform⬇️
 
-Extension Chrome: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
-
+Chrome Extensions: https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=es
 Android: https://play.google.com/store/apps/details?id=com.northghost.touchvpn&pcampaignid=web_share
 
 iOS: https://apps.apple.com/app/id991744383
@@ -13,8 +12,10 @@ iOS: https://apps.apple.com/app/id991744383
 
 3. Optionally, to view the content, use this online player! ⬇️: 
 
-PLAYER:  https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u 
+-iOS & Android Player:  https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u 
 
+-PC Player (Chrome Extension): https://chromewebstore.google.com/detail/reproductor-mpdm3u8m3uepg/opmeopcambhfimffbomjgemehjkbbmji
+-Playlist link for PC Player: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u
 
 4. Enjoy 🍿
 
@@ -33,7 +34,9 @@ iOS: https://apps.apple.com/app/id991744383
 
 3. Opcionalmente, para ver el contenido, ¡usa este reproductor en línea! ⬇️:
 
-REPRODUCTOR: https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u
+-Reproductor iOS y Android: https://dbghelp.github.io/player.html?file=https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u
 
+-Reproductor PC (Extensión Chrome): https://chromewebstore.google.com/detail/reproductor-mpdm3u8m3uepg/opmeopcambhfimffbomjgemehjkbbmji
+-Link Playlist para Reproductor PC: https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/tv_channels_mgwleor_plus.m3u
 
 4. ¡Disfrútalo! 🍿
