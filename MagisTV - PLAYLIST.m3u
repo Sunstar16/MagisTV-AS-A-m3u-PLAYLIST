@@ -690,8 +690,8 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9867.m3u8
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney Jr (M)(1080)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",Disney Jr LATAM
+http://179.49.163.34:45000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)
@@ -4509,7 +4509,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Disney Channel (M)(720)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANADA PREMIUM",CAN-Disney Channel (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45839.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Disney JR (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANADA PREMIUM",CAN-Disney JR (M)(720)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45840.m3u8
+https://wowza1.leisertv.com/live/disneyjunior.stream/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Fight Network (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Fight Network (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-FX (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-FX (M)(720)
