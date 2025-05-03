@@ -685,7 +685,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9865.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="CANALES-INFANTILES",Disney Channel LATAM
 http://179.49.163.34:45000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANALES-INFANTILES",Disney Channel USA
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9867.m3u8
+https://v4.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="CANALES-INFANTILES",Disney XD USA
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)
@@ -4507,7 +4507,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45837.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Dejaview (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Dejaview (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Disney Channel (M)(720)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANADA PREMIUM",CAN-Disney Channel (M)(720)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45839.m3u8
+https://v4.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Disney JR (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANADA PREMIUM",CAN-Disney JR (M)(720)
 https://wowza1.leisertv.com/live/disneyjunior.stream/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Fight Network (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Fight Network (M)(720)
