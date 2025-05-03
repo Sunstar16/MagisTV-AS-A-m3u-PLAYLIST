@@ -662,7 +662,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9850.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9852.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/07d716b7a2daab061d6ea4121f11d31e.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9855.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INF-Cartoonito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/9856.m3u8
@@ -3748,13 +3748,13 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/115518.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - #Vamos (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/071331bfe2ef65c648c23a23720c1c7e.png" group-title="ESPAÑA",ESP - #Vamos (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - 24H (T)(720)" tvg-logo="http://23.153.216.121:25461/images/8279a99cd0db3d4380937e0129fde508.png" group-title="ESPAÑA",ESP - 24H (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - 24H (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ESPAÑA",ESP - 24H (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - 24h (TV)(720)" tvg-logo="http://tvgolatino.com:8080/images/6be7cbfc3e262821b3c3cf041f24de5c.png" group-title="ESPAÑA",ESP - 24h (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - 24h (TV)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ESPAÑA",ESP - 24h (TV)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - A3 Series (T)(720)" tvg-logo="http://23.153.216.121:25461/images/32356bb9ff7b4c26ff7030716e870afa.png" group-title="ESPAÑA",ESP - A3 Series (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - A3 Series (T)(720)" tvg-logo="https://docdog.top/logo/countries/argentina/atreseries.png" group-title="ESPAÑA",ESP - A3 Series (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - A3Series (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/aa72578fb81aa3510cb3ba860b8925cc.png" group-title="ESPAÑA",ESP - A3Series (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - A3Series (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/argentina/atreseries.png" group-title="ESPAÑA",ESP - A3Series (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - AMC (T)(720)" tvg-logo="http://23.153.216.121:25461/images/d0270475abc07f8ccbb549ea4edb89a7.png" group-title="ESPAÑA",ESP - AMC (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8139.m3u8
@@ -3772,15 +3772,15 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8144.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - AXN White (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/9051a0a08d3c5d5390a485b47d3102d0.png" group-title="ESPAÑA",ESP - AXN White (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Baby TV (T)(720)" tvg-logo="http://23.153.216.121:25461/images/95171258279507cbae7495dac7cd46bd.png" group-title="ESPAÑA",ESP - Baby TV (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Baby TV (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ESPAÑA",ESP - Baby TV (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Baby TV (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/ccb03048ba6ad47bdbd8b94fc80aca84.png" group-title="ESPAÑA",ESP - Baby TV (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Baby TV (TV)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ESPAÑA",ESP - Baby TV (TV)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Barca TV (T)(720)" tvg-logo="http://23.153.216.121:25461/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="ESPAÑA",ESP - Barca TV (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Barca TV (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="ESPAÑA",ESP - Barca TV (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BE MAD (T)(720)" tvg-logo="http://23.153.216.121:25461/images/61d6a0e782781e9babb324dd383b53e3.png" group-title="ESPAÑA",ESP - BE MAD (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BE MAD (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ESPAÑA",ESP - BE MAD (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BeMad (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/8a45b4a43167bcbf78de7a1faeebe876.png" group-title="ESPAÑA",ESP - BeMad (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BeMad (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ESPAÑA",ESP - BeMad (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8151.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Blaze (T)(720)" tvg-logo="http://23.153.216.121:25461/images/22159457a74c1dae0c26a966a8f8ab2c.png" group-title="ESPAÑA",ESP - Blaze (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8152.m3u8
@@ -3814,7 +3814,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8166.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - DARK (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/2350435c7d30336da90420b9b2931497.png" group-title="ESPAÑA",ESP - DARK (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Discovery Channel (T)(720)" tvg-logo="http://23.153.216.121:25461/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="ESPAÑA",ESP - Discovery Channel (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Discovery Channel (T)(720)" tvg-logo="https://docdog.top/logo/countries/norway/discoverychannel.png" group-title="ESPAÑA",ESP - Discovery Channel (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8169.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Disney JR. (T)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="ESPAÑA",ESP - Disney JR. (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8172.m3u8
@@ -3824,31 +3824,31 @@ http://rhsbjv7k.tvclub.xyz/iptv/4FTLMRQB8QAYPKMP33UUURAQ/15246/index.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8174.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Dkiss (TV)(SD)" tvg-logo="" group-title="ESPAÑA",ESP - Dkiss (TV)(SD)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - DMAX (T)(720)" tvg-logo="http://23.153.216.121:25461/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="ESPAÑA",ESP - DMAX (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - DMAX (T)(720)" tvg-logo="https://docdog.top/logo/countries/germany/dmax.png" group-title="ESPAÑA",ESP - DMAX (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8176.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - El Toros TV (L)(720)" tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="ESPAÑA",ESP - El Toros TV (L)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Energy (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c00d82993bf4ffa8342db43a79ef3123.png" group-title="ESPAÑA",ESP - Energy (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Energy (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ESPAÑA",ESP - Energy (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Energy (TV)(SD)" tvg-logo="http://tvgolatino.com:8080/images/40cb0e93363408e0087033cc724aa9d2.png" group-title="ESPAÑA",ESP - Energy (TV)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Energy (TV)(SD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ESPAÑA",ESP - Energy (TV)(SD)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 1 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/5019948ec61d43f5f92858f06537aef1.png" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 1 (TV)(720)" tvg-logo="https://docdog.top/logo/countries/norway/eurosport.png" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/111256bc3d526aa689154822101f20a3.png" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (TV)(720)" tvg-logo="https://docdog.top/logo/countries/norway/eurosport.png" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8181.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - FDF (T)(720)" tvg-logo="http://23.153.216.121:25461/images/26b8c9ff1bb985322a240437344b7caa.png" group-title="ESPAÑA",ESP - FDF (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox (T)(720)" tvg-logo="http://23.153.216.121:25461/images/20b215eb868b546d78ce05a38b8064bd.png" group-title="ESPAÑA",ESP - Fox (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox (T)(720)" tvg-logo="https://docdog.top/logo/countries/usa/fox.png" group-title="ESPAÑA",ESP - Fox (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - FOX Life (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2d9102ee2f4eee4a648286168a5503d5.png" group-title="ESPAÑA",ESP - FOX Life (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox News (T)(720)" tvg-logo="http://23.153.216.121:25461/images/9293b5c3d1813904ab149521b67ae7c3.png" group-title="ESPAÑA",ESP - Fox News (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Fox News (T)(720)" tvg-logo="https://docdog.top/logo/countries/usa/foxnews.png" group-title="ESPAÑA",ESP - Fox News (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - GOL (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/7fd69a57aa39430953380549ec247b4a.png" group-title="ESPAÑA",ESP - GOL (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - GOL (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ESPAÑA",ESP - GOL (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (T)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="ESPAÑA",ESP - Historia (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (T)(720)" tvg-logo="https://docdog.top/logo/countries/usa/history.png" group-title="ESPAÑA",ESP - Historia (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/b47dfa54e4944f390fe0f821a4953ab1.png" group-title="ESPAÑA",ESP - Historia (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Historia (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/usa/history.png" group-title="ESPAÑA",ESP - Historia (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8189.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Hollywood (T)(720)" tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Hollywood.png" group-title="ESPAÑA",ESP - Hollywood (T)(720)
 http://tv.zapping.life:8080/live/mgwleor/4lhLaPDAOh/8190.m3u8
@@ -3862,41 +3862,41 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8193.m3u8
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8194.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - La Sexta (TV)(1080)" tvg-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/9E30380F-5FB6-45C1-9F50-8A0D0C60473D.jpeg?raw=true" group-title="ESPAÑA",ESP - La Sexta (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Accion (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/5d58a602d028589e28a558f8980a08c1.png" group-title="ESPAÑA",ESP - M. Accion (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Accion (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ESPAÑA",ESP - M. Accion (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Cine Español (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/bd8c0148c56ab8adf0425fb3ed9e9fb9.png" group-title="ESPAÑA",ESP - M. Cine Español (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Cine Español (TV)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ESPAÑA",ESP - M. Cine Español (TV)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Comedia (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/42b52e9629284dbf30c4f378512716f6.png" group-title="ESPAÑA",ESP - M. Comedia (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Comedia (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ESPAÑA",ESP - M. Comedia (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="ESPAÑA",ESP - M. Deportes (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ESPAÑA",ESP - M. Deportes (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Drama (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/7b7f24505f4e793b05df3d6c6e25ddbe.png" group-title="ESPAÑA",ESP - M. Drama (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Drama (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ESPAÑA",ESP - M. Drama (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Dreamworks (TV)(1080)" tvg-logo="" group-title="ESPAÑA",ESP - M. Dreamworks (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Dreamworks (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ESPAÑA",ESP - M. Dreamworks (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Series (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/077bd8bad93170796c768290e12ad0b7.png" group-title="ESPAÑA",ESP - M. Series (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Series (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ESPAÑA",ESP - M. Series (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Mega (L)(720)" tvg-logo="http://23.153.216.121:25461/images/4ed0e0ecb998940e016def789ae1bdd0.png" group-title="ESPAÑA",ESP - Mega (L)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Mega (L)(720)" tvg-logo="https://docdog.top/logo/countries/chile/mega.png" group-title="ESPAÑA",ESP - Mega (L)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MEGA (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/d859fd3f0c05be226b0523af2c709455.png" group-title="ESPAÑA",ESP - MEGA (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MEGA (TV)(1080)" tvg-logo="https://docdog.top/logo/countries/chile/mega.png" group-title="ESPAÑA",ESP - MEGA (TV)(1080)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Accion (T)(720)" tvg-logo="http://23.153.216.121:25461/images/7bbd7aabc64b8cb5fc41afdeb259780c.png" group-title="ESPAÑA",ESP - Movistar Accion (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Accion (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ESPAÑA",ESP - Movistar Accion (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar CINE N (T)(720)" tvg-logo="http://23.153.216.121:25461/images/2c4fa2e6c94f4ae770bbb3f8179a940a.png" group-title="ESPAÑA",ESP - Movistar CINE N (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar CINE N (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="ESPAÑA",ESP - Movistar CINE N (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Comedia (T)(720)" tvg-logo="http://23.153.216.121:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="ESPAÑA",ESP - Movistar Comedia (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Comedia (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ESPAÑA",ESP - Movistar Comedia (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Drama (T)(720)" tvg-logo="http://23.153.216.121:25461/images/5cfc1a07ef39ebc77976214950688132.png" group-title="ESPAÑA",ESP - Movistar Drama (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Drama (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ESPAÑA",ESP - Movistar Drama (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Estrenos (T)(720)" tvg-logo="http://23.153.216.121:25461/images/3c2cb700b87231ae33e6d2f1f2548d82.png" group-title="ESPAÑA",ESP - Movistar Estrenos (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Formula 1 (T)(720)" tvg-logo="http://23.153.216.121:25461/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="ESPAÑA",ESP - Movistar Formula 1 (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga Campeones (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c46dc330bf804aaca0ff4c8a95bf6abe.png" group-title="ESPAÑA",ESP - Movistar Liga Campeones (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga Campeones (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ESPAÑA",ESP - Movistar Liga Campeones (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Serie (T)(720)" tvg-logo="http://23.153.216.121:25461/images/b73d774dc28822a76de3d5575237cb7e.png" group-title="ESPAÑA",ESP - Movistar Serie (T)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Serie (T)(720)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ESPAÑA",ESP - Movistar Serie (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Seriesmania (T)(720)" tvg-logo="http://23.153.216.121:25461/images/9a34c9e2f92b2363956f83999bbc4925.png" group-title="ESPAÑA",ESP - Movistar Seriesmania (T)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/8215.m3u8
