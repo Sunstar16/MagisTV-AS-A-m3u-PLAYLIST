@@ -1,4 +1,4 @@
-# MagisTV as an .m3u
+# TUTORIAL
 🇬🇧🇺🇸VPN to watch the playlist:
 
 1. Install each VPN depending on your platform⬇️
