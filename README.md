@@ -1,4 +1,5 @@
-# TUTORIAL
+# TUTORIAL🇬🇧🇺🇸🇪🇸
+
 🇬🇧🇺🇸VPN to watch the playlist:
 
 1. Install each VPN depending on your platform⬇️
@@ -19,6 +20,12 @@
 
 -PC Player (Chrome Extension): https://chromewebstore.google.com/detail/reproductor-mpdm3u8m3uepg/opmeopcambhfimffbomjgemehjkbbmji
 -PC Player (Playlist Link): https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV%20-%20PLAYLIST.m3u
+
+⚠️ATTENTION!⚠️
+- Channels marked with a “*” before their
+respective names, indicate that necessarily,
+they don't rely on a VPN to be reproduced,
+meaning that the VPN in those cases, may be disabled depending on your location at that time.
 
 4. Enjoy 🍿
 
@@ -43,5 +50,9 @@
 
 -Reproductor PC (Extensión Chrome): https://chromewebstore.google.com/detail/reproductor-mpdm3u8m3uepg/opmeopcambhfimffbomjgemehjkbbmji
 -Reproductor PC (Link Playlist): https://raw.githubusercontent.com/Sunstar16/MagisTV-AS-A-m3u-PLAYLIST/refs/heads/main/MagisTV%20-%20PLAYLIST.m3u
+
+⚠️ATENCIÓN!⚠️
+- Canales con el caracter "*" antes de sus respectivos nombres, indican que no necesariamente, dependen de una VPN
+para ser reproducidos, significando que esta VPN en estos casos, puede ser desactivada dependiendo de donde y cual sea tú localización en ese momento.
 
 4. ¡Disfrútalo! 🍿
