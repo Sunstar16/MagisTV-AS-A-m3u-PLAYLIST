@@ -1,4 +1,4 @@
-#READ TUTORIAL🇬🇧🇺🇸| LEA TUTORIAL🇪🇸
+# READ TUTORIAL🇬🇧🇺🇸| LEA TUTORIAL🇪🇸
 
 🇬🇧🇺🇸VPN to watch the playlist:
 
