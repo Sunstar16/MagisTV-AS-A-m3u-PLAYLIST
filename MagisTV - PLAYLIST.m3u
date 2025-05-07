@@ -1913,7 +1913,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery WORLD (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery WORLD (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneychannel.png" group-title="BRASIL",BRA-Disney Channel (M)(720)
-http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10598.m3u8
+http://88.212.15.9:5000/live/disneychannel/playlist_key_url.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="BRASIL",BRA-Disney Junior (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/10599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRA-E! (M)(720)" tvg-logo="" group-title="BRASIL",BRA-E! (M)(720)
@@ -4507,7 +4507,7 @@ http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45837.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Dejaview (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Dejaview (M)(720)
 http://tv.masterplaytv.club:8080/live/mgwleor/4lhLaPDAOh/45838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Disney Channel (M)(720)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="CANADA PREMIUM",* CAN-Disney Channel (M)(720)
-https://v4.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+http://mu3241218.oknirvana.club:8880/live/60mkk110007/21841672/3046.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Disney JR (M)(720)" tvg-logo="https://docdog.top/logo/countries/latino/disneyjr.png" group-title="CANADA PREMIUM",CAN-Disney JR (M)(720)
 https://wowza1.leisertv.com/live/disneyjunior.stream/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAN-Fight Network (M)(720)" tvg-logo="" group-title="CANADA PREMIUM",CAN-Fight Network (M)(720)
