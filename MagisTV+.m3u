@@ -2224,7 +2224,7 @@ http://109.233.89.170/Disney_Channel/index.m3u8
 #EXTINF:0,Disney Channel (UK) (🇬🇧)
 https://wowza1.leisertv.com/live/disneychannel.stream/.m3u8
 #EXTINF:0,Disney Channel (USA) (🇺🇸)
-https://tvpass.org/live/DisneyChannelEast/hd/index.m3u8
+https://tvpass.org/live/DisneyChannelEast/hd/
 #EXTINF:0,Disney Jr (España) (🇪🇸)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
 #EXTINF:0,Disney Jr (Mexico) (🇲🇽)
