@@ -1,0 +1,223 @@
+#EXTM3U
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSzrxMTkwYOpcH8d3SGtXhIExHjL3J7A-4kA3scsAu2qmTUHOY5AnxUv0NF-ilMi0YT0&usqp=CAU" tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1 http://190.123.90.146:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2 http://190.123.90.146:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3 http://201.217.246.177:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4 http://201.217.246.177:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5 http://181.209.95.29:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6 http://181.209.95.29:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7 http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8 http://186.148.196.82:8001/play/a04r
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9 http://181.13.173.86:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10 http://181.13.173.86:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11 http://186.148.196.82:8001/play/a04r
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 12 http://186.148.196.82:8001/play/a00p
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 13 http://138.121.114.50:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 14 http://138.121.114.50:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 group-logo="https://magistvs.download/wp-content/uploads/2024/11/magis-tv-logo.png" tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="MAGIS TV" , #️⃣ El Trece https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="MAGIS TV" ,#️⃣ Telefe https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Tve_1_2006.svg/revision/latest/scale-to-width-down/150?cb=20210527130947&path-prefix=es" tvg-logo="https://static.flow.com.ar/images/1025/CH_LOGO/60/40/0/0/12996659073.png" group-title="TV UNO" ,#️⃣ 26 TV http://190.123.90.146:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="TV UNO" ,🐾 A&E http://190.123.90.146:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="TV UNO" ,#️⃣ A24 http://190.123.90.146:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Amsports.png" group-title="TV UNO" ,⚽ AM SPORT http://190.123.90.146:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="TV UNO" ,🎥 AMC http://190.123.90.146:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="TV UNO" ,#️⃣ AMERICA HD http://190.123.90.146:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/160/160/0/0/93120001074605.png" group-title="TV UNO" ,🐾 ANIMAL PLANET http://190.123.90.146:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/263/CH_LOGO/60/40/0/0/92889820071862.png" group-title="TV UNO" ,🎥 AXN http://190.123.90.146:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/60/40/0/0/74835190079.png" group-title="TV UNO" ,CANAL DE LAS ESTRELLAS http://190.123.90.146:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png" group-title="TV UNO" ,CARTOON HD http://190.123.90.146:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="TV UNO" ,🎥 CINE AR http://190.123.90.146:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="TV UNO" ,🎥 CINECANAL HD http://190.123.90.146:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/57692590073142.png" group-title="TV UNO" ,🎥 CINEMAX http://190.123.90.146:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/57692590073142.png" group-title="TV UNO" ,🎥 CINEMAX HD http://190.123.90.146:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/362/CH_LOGO/160/160/0/0/439650900762.png" group-title="TV UNO" ,CNN http://190.123.90.146:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="TV UNO" ,🎥 COMEDY http://190.123.90.146:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="TV UNO" ,#️⃣ CRONICA http://190.123.90.146:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="TV UNO" ,⚽ DEPORTV http://190.123.90.146:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png" group-title="TV UNO" ,🐾 DISCOVERY HD http://190.123.90.146:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png" group-title="TV UNO" ,🐾 DISCOVERY KID http://190.123.90.146:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png" group-title="TV UNO" ,DISNEY HD http://190.123.90.146:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/276/CH_LOGO/60/40/0/0/5684077607756.png" group-title="TV UNO" ,DISNEY JR http://190.123.90.146:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="TV UNO" ,DW http://190.123.90.146:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/312/CH_LOGO/160/160/0/0/477606810750.png" group-title="TV UNO" ,🐾 E! HD http://190.123.90.146:8000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/82/CH_LOGO/60/60/0/0/15069203073244.png" group-title="TV UNO" ,EL GOURMET http://190.123.90.146:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="TV UNO" ,#️⃣ EL NUEVE HD http://190.123.90.146:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="TV UNO" ,#️⃣ EL TRECE http://190.123.90.146:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="TV UNO" ,#️⃣ ENCUENTRO http://190.123.90.146:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="TV UNO" ,⚽ ESPN 2 HD http://190.123.90.146:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="TV UNO" ,⚽ ESPN 3 http://190.123.90.146:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="TV UNO" ,⚽ ESPN 4 http://190.123.90.146:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="TV UNO" ,⚽ ESPN HD http://190.123.90.146:8000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="TV UNO" ,⚽ ESPN PREMIUM http://190.123.90.146:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="TV UNO" ,EUROPA http://190.123.90.146:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg" group-title="TV UNO" ,EWTN http://190.123.90.146:8000/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/691/CH_LOGO/60/40/0/0/444140520763.png" group-title="TV UNO" ,🐾 FILM & ART http://190.123.90.146:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png" group-title="TV UNO" ,⚽ FOX SPORT http://190.123.90.146:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png" group-title="TV UNO" ,⚽ FOX SPORT 2 http://190.123.90.146:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png" group-title="TV UNO" ,⚽ FOX SPORT 3 http://190.123.90.146:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="TV UNO" ,🐾 FX http://190.123.90.146:8000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png" group-title="TV UNO" ,🐾 H&H http://190.123.90.146:8000/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png" group-title="TV UNO" ,🎥 HBO http://190.123.90.146:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="TV UNO" ,🎥 HBO + http://190.123.90.146:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png" group-title="TV UNO" ,🎥 HBO 2 http://190.123.90.146:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png" group-title="TV UNO" ,🎥 HBO FAMILY http://190.123.90.146:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="TV UNO",🎥 HBO MUNDI http://190.123.90.146:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png" group-title="TV UNO" ,🎥 HBO POP http://190.123.90.146:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png" group-title="TV UNO" ,🎥 HBO XTREM http://190.123.90.146:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/160/160/0/0/90194224071499.png" group-title="TV UNO" ,🐾 HISTORY http://190.123.90.146:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/104/CH_LOGO/160/160/0/0/4926258407115.png" group-title="TV UNO" ,HTV http://190.123.90.146:8000/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1081/CH_LOGO/60/40/0/0/30427098073644.png" group-title="TV UNO" ,#️⃣ LA NACION + http://190.123.90.146:8000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/692/CH_LOGO/60/40/0/0/20412471072788.png" group-title="TV UNO" ,LIFE TIME http://190.123.90.146:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="TV UNO" ,#️⃣ MAGAZIN http://190.123.90.146:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/706/CH_LOGO/60/40/0/0/904936680727.png" group-title="TV UNO" ,#️⃣ METRO http://190.123.90.146:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="TV UNO" ,MTV http://190.123.90.146:8000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/864/CH_LOGO/160/160/0/0/71442745071244.png" group-title="TV UNO" ,MTV 00 http://190.123.90.146:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/6857/CH_LOGO/60/40/0/0/27051020073952.png" group-title="TV UNO" ,NICK http://190.123.90.146:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png" group-title="TV UNO" ,NICK JR http://190.123.90.146:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/713/CH_LOGO/60/40/0/0/16840921071492.png" group-title="TV UNO" ,PAKAPAKA http://190.123.90.146:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/714/CH_LOGO/60/40/0/0/96618789072910.png" group-title="TV UNO" ,🎥 PARAMOUNT http://190.123.90.146:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png" group-title="TV UNO" ,PASIONES http://190.123.90.146:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/60/40/0/0/80393273073281.png" group-title="TV UNO" ,QUIERO MUSICA http://190.123.90.146:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/59/CH_LOGO/160/160/0/0/446602280711.png" group-title="TV UNO" ,#️⃣ RURAL http://190.123.90.146:8000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="TV UNO" ,🐾 SCIENCIA http://190.123.90.146:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png" group-title="TV UNO" ,SONY HD http://190.123.90.146:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9139/CH_LOGO/60/40/0/0/59061481076336.png" group-title="TV UNO" ,🎥 SONY MOVIE http://190.123.90.146:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/67/CH_LOGO/60/40/0/0/96273205074535.png" group-title="TV UNO" ,🎥 SPACE HD http://190.123.90.146:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png" group-title="TV UNO" ,🎥 STAR CHANEL http://190.123.90.146:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png" group-title="TV UNO" ,🎥 STUDIO UNIVERSAL http://190.123.90.146:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/160/160/0/0/1820288007328.png" group-title="TV UNO" ,🎥 TCM http://190.123.90.146:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="TV UNO" ,#️⃣ TELEFE CORDOBA http://190.123.90.146:8000/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="TV UNO" ,#️⃣ TELEFE HD http://190.123.90.146:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/284/CH_LOGO/160/160/0/0/20014093074301.png" group-title="TV UNO" ,TELEMUNDO http://190.123.90.146:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/724/CH_LOGO/60/40/0/0/2237715507388.png" group-title="TV UNO" ,TELESUR http://190.123.90.146:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/725/CH_LOGO/60/40/0/0/79088230071181.png" group-title="TV UNO" ,🐾 THEATHER http://190.123.90.146:8000/play/a02k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/9737/CH_LOGO/60/40/0/0/3871340007170.png" group-title="TV UNO" ,TL NOVELAS http://190.123.90.146:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="TV UNO" ,#️⃣ TN HD http://190.123.90.146:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/6877/CH_LOGO/60/40/0/0/67214550074230.png" group-title="TV UNO" , 🎥 TNT HD http://190.123.90.146:8000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/721/CH_LOGO/60/40/0/0/14380831078200.png" group-title="TV UNO" ,TNT NOVELAS http://190.123.90.146:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/322/CH_LOGO/60/40/0/0/77955190072999.png" group-title="TV UNO" ,TNT SERIE http://190.123.90.146:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="TV UNO" ,⚽ TNT SPORTS http://190.123.90.146:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/641/CH_LOGO/60/40/0/0/52117167073223.png" group-title="TV UNO" ,🐾 TURBO http://190.123.90.146:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="TV UNO" ,#️⃣ TV PUBLICA HD http://190.123.90.146:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png" group-title="TV UNO" ,⚽ TYC SPORT http://190.123.90.146:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="TV UNO" ,UNIFE http://190.123.90.146:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="TV UNO" ,🎥 UNIVERSAL http://190.123.90.146:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="TV UNO" ,USA NETWORK http://190.123.90.146:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/365/CH_LOGO/160/160/0/0/371516250745.png" group-title="TV UNO" ,#️⃣ VOLVER http://190.123.90.146:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="TV UNO" ,🎥 WARNER http://190.123.90.146:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/60/60/0/0/24981309071389.png" group-title="TV UNO" ,🐾 WORD http://190.123.90.146:8000/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="TV UNO" ,#️⃣ Canal 12 http://190.123.90.146:8000/play/a039/index.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png" group-title="CLARO TV"",26TV http://201.217.246.177:8000/play/a01r/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CLARO TV"",A&E http://201.217.246.177:8000/play/a05i/index.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="CLARO TV"",A24 http://201.217.246.177:8000/play/a01o/index.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Amsports.png" group-title="CLARO TV"",AM Sports http://201.217.246.177:8000/play/a01v/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="CLARO TV"",AMC http://201.217.246.177:8000/play/a01z/index.m3u8 #EXTINF:-1 group-title="CLARO TV"",ARGENTINISIMA http://201.217.246.177:8000/play/a09n/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/263/CH_LOGO/60/40/0/0/92889820071862.png" group-title="CLARO TV"",AXN HD http://201.217.246.177:8000/play/a05f/index.m3u8 #EXTINF:-1 group-title="CLARO TV"",Adult swim http://201.217.246.177:8000/play/a0a5/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="CLARO TV"",America TV http://201.217.246.177:8000/play/a055/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png" group-title="CLARO TV"",Baby TV http://201.217.246.177:8000/play/a02e/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png" group-title="CLARO TV",C5N http://201.217.246.177:8000/play/a01p/index.m3u8 #EXTINF:-1 group-title="CLARO TV",CANAL 9 LINK http://201.217.246.177:8000/play/a0a1/index.m3u8 #EXTINF:-1 group-title="CLARO TV",CNN en Espaæol http://201.217.246.177:8000/play/a054/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Canal a http://201.217.246.177:8000/play/a09j/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Canal de la Ciudad http://201.217.246.177:8000/play/a06e/index.m3u8 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" group-title="CLARO TV",Cartoon Network http://201.217.246.177:8000/play/a075/index.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CLARO TV",Cine.AR http://201.217.246.177:8000/play/a024/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="CLARO TV",Cinecanal http://201.217.246.177:8000/play/a07b/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/57692590073142.png" group-title="CLARO TV",Cinemax http://201.217.246.177:8000/play/a04s/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="CLARO TV",Comedy Central http://201.217.246.177:8000/play/a02x/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="CLARO TV",Crðnica http://201.217.246.177:8000/play/a01q/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="CLARO TV",DeporTV http://201.217.246.177:8000/play/a06h/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png" group-title="CLARO TV",Discovery Channel http://201.217.246.177:8000/play/a07i/index.m3u8 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" group-title="CLARO TV",Discovery H&H http://201.217.246.177:8000/play/a07h/index.m3u8 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" group-title="CLARO TV",Discovery Kids http://201.217.246.177:8000/play/a06t/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="CLARO TV",Discovery Science http://201.217.246.177:8000/play/a02k/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="CLARO TV",Discovery Theater http://201.217.246.177:8000/play/a02z/index.m3u8 #EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="CLARO TV",Discovery Turbo http://201.217.246.177:8000/play/a01w/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/681/CH_LOGO/60/40/0/0/68418478071389.png" group-title="CLARO TV",Discovery World http://201.217.246.177:8000/play/a031/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/275/CH_LOGO/60/40/0/0/13885222074367.png" group-title="CLARO TV",Disney Channel http://201.217.246.177:8000/play/a02r/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/276/CH_LOGO/60/40/0/0/5684077607756.png" group-title="CLARO TV",Disney Junior http://201.217.246.177:8000/play/a04y/index.m3u8 #EXTINF:-1 group-title="CLARO TV",E! Entertainment http://201.217.246.177:8000/play/a050/index.m3u8 #EXTINF:-1 group-title="CLARO TV",EL FOLKLORICO TV http://201.217.246.177:8000/play/a0aa/index.m3u8 #EXTINF:-1 group-title="CLARO TV",ENLACE http://201.217.246.177:8000/play/a09q/index.m3u8 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="CLARO TV",ESPN 2 http://201.217.246.177:8000/play/a059/index.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CLARO TV",ESPN 3 http://201.217.246.177:8000/play/a05b/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="CLARO TV",ESPN 4 http://201.217.246.177:8000/play/a076/index.m3u8 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="CLARO TV",ESPN HD http://201.217.246.177:8000/play/a05a/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="CLARO TV",ESPN Premium http://201.217.246.177:8000/play/a078/index.m3u8 #EXTINF:-1 tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg" group-title="CLARO TV",EWTN http://201.217.246.177:8000/play/a09s/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="CLARO TV",El Canal de las Estrellas http://201.217.246.177:8000/play/a06z/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png" group-title="CLARO TV",El Gourmet http://201.217.246.177:8000/play/a06w/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="CLARO TV",Encuentro http://201.217.246.177:8000/play/a01m/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Europa Europa http://201.217.246.177:8000/play/a06v/index.m3u8 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="CLARO TV",FX http://201.217.246.177:8000/play/a02v/index.m3u8 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/691/CH_LOGO/60/40/0/0/444140520763.png" group-title="CLARO TV",Film & Arts http://201.217.246.177:8000/play/a030/index.m3u8 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png" group-title="CLARO TV",Fox Sports 2 http://201.217.246.177:8000/play/a05c/index.m3u8 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="CLARO TV",Fox Sports 3 http://201.217.246.177:8000/play/a02t/index.m3u8 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png" group-title="CLARO TV",Fox Sports http://201.217.246.177:8000/play/a07j/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Galicia TV http://201.217.246.177:8000/play/a02q/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO http://201.217.246.177:8000/play/a06o/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO 2 http://201.217.246.177:8000/play/a06q/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO Family http://201.217.246.177:8000/play/a06r/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO Mundi http://201.217.246.177:8000/play/a02a/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO POP http://201.217.246.177:8000/play/a09m/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO Plus http://201.217.246.177:8000/play/a06p/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO Signature http://201.217.246.177:8000/play/a02c/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HBO Xtreme http://201.217.246.177:8000/play/a02b/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HGTV http://201.217.246.177:8000/play/a02j/index.m3u8 #EXTINF:-1 group-title="CLARO TV",HTV http://201.217.246.177:8000/play/a02o/index.m3u8 #EXTINF:-1 group-title="CLARO TV",History 2 http://201.217.246.177:8000/play/a0a7/index.m3u8 #EXTINF:-1 group-title="CLARO TV",History Channel http://201.217.246.177:8000/play/a051/index.m3u8 #EXTINF:-1 group-title="CLARO TV",La Nacion TV http://201.217.246.177:8000/play/a01s/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Lifetime http://201.217.246.177:8000/play/a06n/index.m3u8 #EXTINF:-1 group-title="CLARO TV",MTV http://201.217.246.177:8000/play/a02m/index.m3u8 #EXTINF:-1 group-title="CLARO TV",MTV×00 http://201.217.246.177:8000/play/a053/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Metro http://201.217.246.177:8000/play/a02g/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Nat Geo http://201.217.246.177:8000/play/a05g/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Nick Jr http://201.217.246.177:8000/play/a06u/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Nickelodeon http://201.217.246.177:8000/play/a04z/index.m3u8 #EXTINF:-1 group-title="CLARO TV",PASIONES http://201.217.246.177:8000/play/a09t/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Pakapaka http://201.217.246.177:8000/play/a01n/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Paramount http://201.217.246.177:8000/play/a02y/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Quiero Musica http://201.217.246.177:8000/play/a02n/index.m3u8 #EXTINF:-1 group-title="CLARO TV",RAI Italia http://201.217.246.177:8000/play/a02p/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Rural http://201.217.246.177:8000/play/a02f/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Somos Uno http://201.217.246.177:8000/play/a09y/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Sony http://201.217.246.177:8000/play/a05d/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Sony Movies http://201.217.246.177:8000/play/a05k/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Space http://201.217.246.177:8000/play/a02w/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Star Channel http://201.217.246.177:8000/play/a079/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Studio Universal http://201.217.246.177:8000/play/a022/index.m3u8 #EXTINF:-1 group-title="CLARO TV",T5 SATELITAL http://201.217.246.177:8000/play/a0a0/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TCM http://201.217.246.177:8000/play/a020/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TELEMUNDO http://201.217.246.177:8000/play/a09r/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TLNovelas http://201.217.246.177:8000/play/a09v/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TN http://201.217.246.177:8000/play/a058/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TNT http://201.217.246.177:8000/play/a07d/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TNT Novelas http://201.217.246.177:8000/play/a07g/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TNT Series http://201.217.246.177:8000/play/a07e/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TNT Sports http://201.217.246.177:8000/play/a02u/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TV Publica http://201.217.246.177:8000/play/a056/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TVE http://201.217.246.177:8000/play/a072/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Telefe http://201.217.246.177:8000/play/a06c/index.m3u8 #EXTINF:-1 group-title="CLARO TV",The History Channel http://201.217.246.177:8000/play/a05h/index.m3u8 #EXTINF:-1 group-title="CLARO TV",TyC Sports http://201.217.246.177:8000/play/a02s/index.m3u8 #EXTINF:-1 group-title="CLARO TV",USA Network http://201.217.246.177:8000/play/a023/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Universal http://201.217.246.177:8000/play/a05j/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Volver http://201.217.246.177:8000/play/a021/index.m3u8 #EXTINF:-1 group-title="CLARO TV",Warner Channel http://201.217.246.177:8000/play/a05e/index.m3u8 #EXTINF:-1 group-title="CLARO TV",canal 8 san cosme http://201.217.246.177:8000/play/a0ac/index.m3u8 #EXTINF:-1 group-title="CLARO TV",ciudad magazine http://201.217.246.177:8000/play/a02h/index.m3u8 #EXTINF:-1 group-title="CLARO TV",el nueve http://201.217.246.177:8000/play/a04h/index.m3u8 #EXTINF:-1 group-title="CLARO TV",el trece http://201.217.246.177:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title=".PACK FUTBOL" ,⚽ 14 TNT SPORTS (TV UNO) http://190.123.90.146:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title=".PACK FUTBOL" ,⚽ 14 TNT SPORTS (m3u8) http://201.217.246.177:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title=".PACK FUTBOL" ,⚽ 14 TNT SPORTS (MAGIS) http://181.13.173.86:8000/play/a02u/index.m3u8
